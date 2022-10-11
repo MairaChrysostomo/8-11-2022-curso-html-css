@@ -1,0 +1,33 @@
+<style>body {
+    background-color: rgb(201, 201, 201);
+}
+h1{background-color: black;
+    border-radius:012px;
+    display: inline;
+    padding: 12px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-style: normal;
+    font-size: 64px;
+    color: #159159;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #044d00;
+    background-color: #ddffa7;
+}
+
+p {
+    font-variant: inherit;
+    color: rgb(28, 94, 63);
+    text-align: left;
+    text-indent: 30px;
+
+}
+
+</style>

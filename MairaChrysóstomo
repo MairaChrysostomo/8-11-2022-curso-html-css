@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>maira Chrysostomo</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="hover">
+        <ul>
+            <li>
+                <a href="index.html">Sobre mim</a>
+            </li>
+            <li>
+                <a href="projetos.html">Projetos</a>
+            </li>
+            <li>
+                <a href="contato.html">contato</a>
+            </li>
+
+        </ul>
+
+    </nav>
+
+    <header>
+        <div class="center">
+            <img src="./img/mai.png.jpg"></img>
+        </div>
+        <h1>Maira Chrysostomo</h1>
+        <h2>Desenvolper - Fotógrafa - WebDesign - UI/ UX </h2>
+
+    </header>
+    <main>
+        <section>
+            <h3>Sobre mim</h3>
+            <p> Olá, 29 anos anos </p>
+
+        </section>
+
+        <section>
+            <h3>Formação </h3>
+            <p> Olá, 29 anos anos </p>
+
+        </section>
+
+
+        <section>
+            <h3>Cursos</h3>
+            <p> Olá, 29 anos anos </p>
+
+        </section>
+
+    </main>
+    <footer>
+        <a href="https://github.com/mairachrysostomo" target="_blank" rel="noopener noreferrer">
+            <img src="./img/github.svg"> </img>
+            <p>Github</p>
+
+        </a>
+        <a href="https://www.linkedin.com/in/maira-crisostomo-73b083109/" target="_blank" rel="noopener noreferrer">
+            <img src="./img/LinkedIn-Icon-Logo.svg"> </img>
+            <p>Linkedin</p>
+
+        </a>
+        <a href="https://twitter.com/MaiChrysostomo" target="_blank" rel="noopener noreferrer">
+            <img src="./img/twitter-icon.svg"> </img>
+            <p>Twitter</p>
+
+        </a>
+        <a href="https://www.youtube.com/@mairachrysostomodesign" target="_blank" rel="noopener noreferrer">
+            <img src="./img/YouTube-Icon svg.svg"> </img>
+            <p>YouTube</p>
+
+        </a>
+    </footer>
+</div>
+    </body>
+
+</html>

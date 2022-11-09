@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>maira Chrysostomo</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="hover">
+            <ul>
+                <li class="inicio">
+                    <a href="index.html">Maíra da Silva Chrysóstomo</a>
+                </li>
+                <li>
+                    <a href="https://github.com/mairachrysostomo" target="_blank" rel="noopener noreferrer">
+                        <img src="./img/github.svg"> </img>
+
+
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/maira-crisostomo-73b083109/" target="_blank"
+                        rel="noopener noreferrer">
+                        <img src="./img/LinkedIn-Icon-Logo.svg"> </img>
+
+
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/@mairachrysostomodesign" target="_blank" rel="noopener noreferrer">
+                        <img src="./img/YouTube-Icon svg.svg"> </img>
+
+                    </a>
+
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+
+        <header>
+            <div class="center">
+                <img src="./img/mai.png.jpg"></img>
+            </div>
+            <h1>Maíra Chrysóstomo</h1>
+            <h2>Fotógrafa<br>Photoshop e Lightroom<br> Web Design em HTML5, CSS3 e JS</h2>
+            <div class="logo">
+
+            </div>
+
+        </header>
+        <main>
+            <section>
+                <h3>Sobre mim</h3>
+                <p> Olá, o meu nome é Maira Chrysóstomo. Sou Fotógrafa há 5 anos <br>
+                    Tenho edição avançada em <b>PS e LR</b>.<br> Estudo <b>Web Design</b>, ajudo marcas e empresas a
+                    atingirem seus objetivos de negócio através<br> do planeamento, criação e distribuição de conteúdos
+                    que inspirem os seus públicos.<br> Eu amo fotografia e estou
+                    amando a linguagem de programação,<br> na verdade eu nunca pensei que hoje eu estaria dando inicio
+                    paraesta área<br>que é tão grande e vasta e cá estou, estudando e tentando um projeto indivial que é
+                    a<br>produção deste pequeno site, ainda se encontra em construção e o iniciei do zero.<br> Tenho
+                    alguns
+                    anjos na minha vida que me incentivaram. me incentivando a cada<br> dia mais a exercer com afinco a
+                    função.<br> No <b>Photoshop</b> faço criação de conteúdos digitais em canvas para redes sociais,<br>
+                    edições avançadas <strong>High Pass</strong>, <strong>Dodge & Burn</strong>, <strong>Fine
+                        Art</strong><br><strong>Criação de Vetores, Fotomontagem e Fotorealistas</strong>
+                </p>
+
+            </section>
+
+        </main>
+        <footer>
+            <a href="https://github.com/mairachrysostomo" target="_blank" rel="noopener noreferrer">
+                <img src="./img/github.svg"> </img>
+                <p>Github</p>
+
+            </a>
+            <a href="https://www.linkedin.com/in/maira-crisostomo-73b083109/" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LinkedIn-Icon-Logo.svg"> </img>
+                <p>Linkedin</p>
+
+            </a>
+            <a href="https://twitter.com/MaiChrysostomo" target="_blank" rel="noopener noreferrer">
+                <img src="./img/twitter-icon.svg"> </img>
+                <p>Twitter</p>
+
+            </a>
+            <a href="https://www.youtube.com/@mairachrysostomodesign" target="_blank" rel="noopener noreferrer">
+                <img src="./img/YouTube-Icon svg.svg"> </img>
+                <p>YouTube</p>
+
+            </a>
+        </footer>
+        <footer class="rodape">
+            &copy;mairachrysostomodesign.com
+        </footer>
+    </div>
+</body>
+
+</html>
